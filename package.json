@@ -1,0 +1,6 @@
+{
+  "name": "kit-lib42",
+  "version": "1.7.0",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
